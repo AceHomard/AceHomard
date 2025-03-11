@@ -2,9 +2,9 @@
   <h1>Hi there! 👋</h1>
 </div>
 
-I'm a software developer passionate about computer science, and I've completed the core curriculum at 42 School. I bring rigor, creativity, and problem-solving skills to every project. My background in team management has taught me the value of collaboration and organization.
+I'm a **software developer** passionate about **computer science**, and I've completed the **core curriculum** at **42** . I bring **rigor**, **creativity**, and **problem-solving skills** to every project. My background in **team management** has taught me the value of **collaboration** and **organization**.
 
-Currently, I'm diving into Machine Learning and always eager to learn new things.
+Currently, I'm diving into **Machine Learning** and always eager to learn **new things**.
 
 ---
 

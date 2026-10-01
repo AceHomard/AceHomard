@@ -1,6 +1,6 @@
 # Jason Giamporcaro
 
-**Software developer - Python, backend & AI**
+**Software Engineer - Python, backend & AI**
 
 42 graduate: Master's-level qualification (EQF level 7), *Expert en architecture informatique*, databases & data track. I spent 16 months at Laizy, a startup building AI assistants for businesses, working on a multi-tenant SaaS platform used in production by large companies: from the Python backend to deployment and client support.
 
